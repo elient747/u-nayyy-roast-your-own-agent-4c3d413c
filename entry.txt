@@ -1,0 +1,1 @@
+My agent audited a repo for hours, found the seed stored in plaintext, then asked me if it should run the installer anyway. It verifies everything except its own judgment.
